@@ -1,0 +1,16 @@
+Modelo,Tipo,Consumo_Cidade,Preco_Combustivel_kWh,CO2_medio_g_km
+Fiat Argo 1.3 Flex,Flex,11.8,7.20,142
+VW Polo 1.0 TSI Flex,Flex,12.5,7.20,135
+Toyota Corolla Flex,Flex,12.1,7.20,138
+Chevrolet Onix Plus,Flex,13.9,7.20,128
+Honda HR-V Flex,Flex,11.2,7.20,148
+Toyota Corolla Híbrido,Híbrido,23.8,7.20,68
+Corolla Cross Híbrido,Híbrido,19.2,7.20,78
+Honda Civic Híbrido,Híbrido,22.5,7.20,72
+CAOA Chery Tiggo 8 Híbrido,Híbrido,18.5,7.20,82
+BYD Dolphin,Elétrico,4.6,0.68,12
+Renault Kwid E-Tech,Elétrico,4.3,0.68,10
+GWM Ora 03,Elétrico,4.8,0.68,14
+JAC E-JS1,Elétrico,4.9,0.68,13
+Nissan Leaf,Elétrico,5.1,0.68,15
+BMW i3,Elétrico,5.3,0.68,11
