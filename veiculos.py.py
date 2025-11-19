@@ -4,7 +4,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-# Configuração geral dos gráficos (fica bonito no GitHub)
+# Configuração geral dos gráficos 
 plt.rcParams['font.size'] = 12
 sns.set_style("whitegrid")
 
@@ -49,4 +49,5 @@ print(df[["Modelo", "Tipo", "Custo_por_km_R$", "CO2_medio_g_km"]]
 
 print("\nProjeto concluído com sucesso!")
 print("Imagens salvas: custo_por_km.png + emissao_co2_por_km.png")
+
 print("Planilha salva: Resultado_Final_Veiculos_2025.xlsx")
